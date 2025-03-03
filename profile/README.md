@@ -6,5 +6,5 @@
 
 ## 🔗 Connect With Us  
 💻 **GitHub:** [BallerStonks](https://github.com/BallerStonks)  
-📬 **Contact:** [hi@ballerstonks.com](mailto:hi@ballerstonks.com)
+📬 **Contact:** [hi@ballerstonks.com](mailto:hi@ballerstonks.com)  
 🐥 **Twitter/X:** [BallerStonks](https://x.com/BallerStonks)
