@@ -6,4 +6,3 @@
 
 ## 🔗 Connect With Us  
 📬 **Contact:** [hi@ballerstonks.com](mailto:hi@ballerstonks.com)  
-🐥 **Twitter/X:** [BallerStonks](https://x.com/BallerStonks)
